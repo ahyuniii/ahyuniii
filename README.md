@@ -13,19 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Ahyun LEE
-ttps://go.mariadb.com/"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white" /></a>
 
-<table>
-<td>
-![Ahyuniii's Github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true)
-</td>
-<td>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusdn8060)](https://solved.ac/dldusdn8060/)
-</td>
-<table>
-https://ko.wikipedia.org/wiki/HTML5
-
-https://ko.wikipedia.org/wiki/CSS
 
 
 
