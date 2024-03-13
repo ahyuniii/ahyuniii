@@ -40,13 +40,13 @@
 <div align=center>
   <h3>:fire: Problem Solving :fire:</h3>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahyuniii)](https://solved.ac/ahyuniii)
+  <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahyuniii)](https://solved.ac/ahyuniii) -->
 </div>
 
 <div align=center>
   <h3>:four_leaf_clover: GitHub :four_leaf_clover:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyuniii&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahyuniii&layout=compact&langs_count=3&height=300px)<br>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyuniii&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahyuniii&layout=compact&langs_count=3&height=300px)<br> -->
 
 </div>
